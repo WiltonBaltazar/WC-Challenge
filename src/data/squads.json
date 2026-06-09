@@ -1,0 +1,210 @@
+{
+  "1930s": {
+    "Argentina (Runner-up)": {
+      "names": ["Luis Monti", "Guillermo Stábile", "Juan Evaristo", "Manuel Ferreira", "Juan Botasso", "Bernabé Ferreyra", "Carlos Peucelle", "Alejandro Scopelli", "Roberto Cherro", "Rodolfo Orlandini", "Attilio Demaría", "Alberto Chividini", "José Della Torre", "Juan Evaristo", "Juan José Tramutola", "Pedro Suárez", "Angel Bossio", "Mario Evaristo", "Natalio Perinetti", "Carlos Desiderio"],
+      "positions": [["CDM"], ["ST"], ["CM"], ["CAM"], ["GK"], ["ST"], ["RW"], ["ST"], ["LW"], ["CDM"], ["CAM"], ["CDM"], ["RB", "CB"], ["CM"], ["CM"], ["LB"], ["GK"], ["LW"], ["RW"], ["ST"]],
+      "ratings": [92, 94, 88, 89, 87, 90, 89, 88, 88, 87, 86, 85, 85, 86, 85, 84, 85, 86, 85, 84]
+    },
+    "Czechoslovakia (Runner-up)": {
+      "names": ["František Plánička", "Oldřich Nejedlý", "Antonín Puč", "František Svoboda", "Josef Košťálek", "Jaroslav Burgr", "Ladislav Ženíšek", "Karel Čipera", "Štefan Čambal", "Vlastimil Kopecký", "Jiří Sobotka", "Gejza Kocsis", "Ferdinand Daučík", "Jaroslav Bouček", "Erich Srbek", "Antonín Vodička", "Oldřich Rulc", "Josef Silný", "František Junek", "Karel Tichý"],
+      "positions": [["GK"], ["ST"], ["LW"], ["CAM"], ["CB"], ["CB"], ["RB"], ["LB"], ["CDM"], ["ST"], ["ST"], ["LW"], ["CB"], ["CM"], ["CM"], ["CDM"], ["CAM"], ["ST"], ["RW"], ["GK"]],
+      "ratings": [93, 91, 90, 88, 87, 86, 86, 85, 85, 86, 85, 84, 84, 83, 83, 82, 82, 81, 81, 80]
+    },
+    "Hungary (Runner-up)": {
+      "names": ["György Sárosi", "Gyula Zsengellér", "Antal Szabó", "Gyula Lázár", "József Turay", "László Cseh", "József Háda", "György Szűcs", "Antal Szalay", "Vilmos Kohut", "Géza Toldi", "István Balogh", "János Dudás", "József Vogel", "László Sternberg", "Sándor Bíró", "Gyula Polgár", "Pál Titkos", "József Nemes", "Mihály Patyi"],
+      "positions": [["CAM"], ["ST"], ["GK"], ["CM"], ["CAM"], ["ST"], ["GK"], ["CB"], ["CDM", "LB"], ["LW"], ["ST"], ["CDM"], ["RW"], ["CB"], ["CB"], ["LB"], ["CB"], ["LW"], ["ST"], ["CM"]],
+      "ratings": [92, 91, 89, 87, 88, 87, 86, 86, 85, 85, 85, 84, 84, 83, 83, 82, 82, 81, 81, 80]
+    }
+  },
+  "1950s": {
+    "Brazil": {
+      "names": ["Ademir", "Zizinho", "Jair", "Barbosa", "Bauer", "Nilton Santos", "Djalma Santos", "Castilho", "Brandão", "Alfredo", "Baltazar", "Maneca", "Friaça", "Chico", "Bigode", "Juvenal", "Ely", "Rodrigues", "Danilo", "Ademir"],
+      "positions": [["ST"], ["CAM"], ["CAM"], ["GK"], ["CDM"], ["LB"], ["RB"], ["GK"], ["CDM"], ["CM"], ["ST"], ["CAM"], ["RW"], ["LW"], ["LB"], ["CB"], ["CDM"], ["LW"], ["CDM"], ["ST"]],
+      "ratings": [93, 94, 91, 89, 90, 92, 91, 88, 87, 87, 88, 86, 86, 86, 85, 85, 84, 84, 83, 83]
+    },
+    "Brazil (Runner-up)": {
+        "names": ["Ademir", "Zizinho", "Jair", "Barbosa", "Bauer", "Nilton Santos", "Djalma Santos", "Castilho", "Brandão", "Alfredo", "Baltazar", "Maneca", "Friaça", "Chico", "Bigode", "Juvenal", "Ely", "Rodrigues", "Danilo", "Ademir"],
+        "positions": [["ST"], ["CAM"], ["CAM"], ["GK"], ["CDM"], ["LB"], ["RB"], ["GK"], ["CDM"], ["CM"], ["ST"], ["CAM"], ["RW"], ["LW"], ["LB"], ["CB"], ["CDM"], ["LW"], ["CDM"], ["ST"]],
+        "ratings": [93, 94, 91, 89, 90, 92, 91, 88, 87, 87, 88, 86, 86, 86, 85, 85, 84, 84, 83, 83]
+    },
+    "Hungary (Runner-up)": {
+        "names": ["Ferenc Puskás", "Sándor Kocsis", "Nándor Hidegkuti", "József Bozsik", "Gyula Grosics", "Zoltán Czibor", "László Budai", "Jenő Buzánszky", "Gyula Lóránt", "Mihály Lantos", "József Zakariás", "László Budai", "László Lóránt", "Imre Kovács", "Sándor Gellér", "Lajos Csordás", "Ferenc Szojka", "László Sárosi", "Tivadar Kispéter", "Károly Sándor"],
+        "positions": [["ST"], ["ST"], ["CF"], ["CM"], ["GK"], ["LW"], ["RW"], ["RB"], ["CB"], ["LB"], ["CDM"], ["RW"], ["CB"], ["CM"], ["GK"], ["LW"], ["CDM"], ["CB"], ["CB"], ["RW"]],
+        "ratings": [98, 96, 94, 95, 93, 93, 91, 90, 90, 89, 89, 88, 88, 87, 87, 86, 86, 85, 85, 84]
+    },
+    "Sweden (Runner-up)": {
+        "names": ["Nils Liedholm", "Gunnar Gren", "Gunnar Nordahl", "Kurt Hamrin", "Kalle Svensson", "Lennart Skoglund", "Orvar Bergmark", "Sigge Parling", "Gösta Löfgren", "Agne Simonsson", "Bengt Gustavsson", "Åke Johansson", "Bror Mellberg", "Tore Svensson", "Sune Andersson", "Rune Börjesson", "Lennart Samuelsson", "Karl-Erik Palmér", "Harry Bild", "Ove Backlund"],
+        "positions": [["CAM"], ["CAM"], ["ST"], ["RW"], ["GK"], ["LW"], ["RB"], ["CDM"], ["CAM"], ["ST"], ["CB"], ["CB", "LB"], ["ST"], ["GK"], ["CM"], ["ST"], ["CB"], ["RW"], ["ST"], ["CB"]],
+        "ratings": [92, 91, 93, 90, 89, 89, 88, 87, 87, 86, 86, 85, 85, 84, 84, 83, 83, 82, 82, 81]
+    }
+  },
+  "1960s": {
+    "England": {
+      "names": ["Bobby Charlton", "Bobby Moore", "Gordon Banks", "Geoff Hurst", "Martin Peters", "Jack Charlton", "Nobby Stiles", "Ray Wilson", "George Cohen", "Alan Ball", "Roger Hunt", "Jimmy Greaves", "Terry Paine", "John Connelly", "Ron Flowers", "Norman Hunter", "Peter Bonetti", "George Eastham", "Ian Callaghan", "Johnny Byrne"],
+      "positions": [["CAM", "CM"], ["CB"], ["GK"], ["ST"], ["CAM", "LM"], ["CB"], ["CDM"], ["LB"], ["RB"], ["RM", "CM"], ["ST"], ["ST"], ["RW"], ["RW"], ["CM"], ["CB"], ["GK"], ["CAM"], ["RM"], ["ST"]],
+      "ratings": [96, 97, 95, 93, 91, 89, 90, 88, 88, 90, 89, 92, 87, 86, 86, 85, 85, 84, 84, 83]
+    },
+    "Germany (Runner-up)": {
+      "names": ["Franz Beckenbauer", "Wolfgang Overath", "Helmut Haller", "Karl-Heinz Schnellinger", "Hans Tilkowski", "Uwe Seeler", "Willi Schulz", "Horst-Dieter Höttges", "Wolfgang Weber", "Sigfried Held", "Albert Brülls", "Jürgen Grabowski", "Max Lorenz", "Bernd Patzke", "Klaus-Dieter Sieloff", "Gerd Sude", "Manfred Manglitz", "Hans Küppers", "Klaus Matischak", "Reinhard Libuda"],
+      "positions": [["CB", "LB"], ["CAM"], ["RW"], ["CB"], ["GK"], ["ST"], ["CB"], ["RB"], ["CB"], ["LW"], ["CAM"], ["RW"], ["CM"], ["LB"], ["CB"], ["GK"], ["GK"], ["CAM"], ["ST"], ["RW"]],
+      "ratings": [95, 91, 89, 90, 87, 92, 88, 87, 86, 86, 85, 85, 84, 84, 83, 83, 82, 82, 81, 81]
+    },
+    "Czechoslovakia (Runner-up)": {
+        "names": ["Josef Masopust", "Viliam Schrojf", "Ján Popluhár", "Adolf Scherer", "Svatopluk Pluskal", "Titus Buberník", "Ladislav Novák", "Svatopluk Pluskal", "Jozef Štibrányi", "Jozef Adamec", "Pavel Kouba", "Karel Knesl", "Ján Lála", "Josef Jelínek", "Tomáš Pospíchal", "Jiří Tichý", "Jozef Bomba", "František Schmucker", "Jiří Dvořák", "Ivan Mráz"],
+        "positions": [["CM"], ["GK"], ["CB"], ["ST"], ["CDM"], ["CM"], ["LB"], ["CDM"], ["RW"], ["ST"], ["GK"], ["CM"], ["RB"], ["LW"], ["RW"], ["CB"], ["CB"], ["GK"], ["CB"], ["ST"]],
+        "ratings": [94, 92, 91, 88, 89, 87, 86, 86, 85, 85, 85, 84, 84, 83, 83, 82, 82, 81, 81, 80]
+    },
+    "North Korea": {
+        "names": ["Pak Doo-ik", "Li Chan-myong", "Shin Yung-kyoo", "Im Seung-hwi", "Li Dong-woon", "Han Bong-zin", "Kim Bong-hwan", "Kim Jung-woon", "Li Heung-sil", "Yang Seung-kook", "Li Keun-hak", "Kim Tam-suk", "Joo Seung-hwan", "Kang Bong-chil", "Choi Yung-keun", "Kim Seung-il", "Li Yoon-il", "Oh Yoon-kyung", "Choi Yoon-ok", "Li Chang-myong"],
+        "positions": [["ST"], ["GK"], ["CB"], ["CM"], ["LW"], ["CAM"], ["RW", "RB"], ["CB"], ["CM"], ["ST"], ["LB"], ["GK"], ["CB"], ["CAM"], ["RB"], ["GK"], ["CM"], ["LB"], ["CB"], ["GK"]],
+        "ratings": [84, 80, 81, 79, 78, 77, 77, 76, 76, 75, 75, 74, 74, 73, 73, 72, 72, 71, 71, 70]
+    }
+  },
+  "1970s": {
+    "Brazil": {
+      "names": ["Pelé", "Jairzinho", "Rivellino", "Carlos Alberto", "Tostão", "Gérson", "Clodoaldo", "Félix", "Everaldo", "Piazza", "Everaldo", "Marco Antônio", "Fontana", "Paulo Cézar", "Rogério", "Ado", "Leão", "Baldochi", "Joel", "Edu"],
+      "positions": [["ST", "CAM"], ["RW", "ST"], ["CAM", "CM"], ["RB"], ["ST", "CAM"], ["CM"], ["CDM"], ["GK"], ["LB"], ["CB"], ["LB"], ["LB"], ["CB"], ["LW"], ["RB"], ["GK"], ["GK"], ["CB"], ["RB"], ["LW"]],
+      "ratings": [99, 96, 95, 94, 94, 93, 91, 88, 87, 89, 87, 86, 86, 85, 85, 84, 84, 83, 83, 82]
+    },
+    "Netherlands (Runner-up)": {
+        "names": ["Johan Cruyff", "Johan Neeskens", "Rob Rensenbrink", "Ruud Krol", "Wim van Hanegem", "Arie Haan", "Jan Jongbloed", "Wim Suurbier", "Barry Hulshoff", "Piet Keizer", "Johnny Rep", "Theo de Jong", "René van de Kerkhof", "Willy van de Kerkhof", "Piet Schrijvers", "Eddy Treijtel", "Ruud Geels", "Pleun Strik", "Ben Wijnstekers", "Jan Poortvliet"],
+        "positions": [["CAM", "ST"], ["CM"], ["LW"], ["CB", "LB"], ["CM"], ["CDM"], ["GK"], ["RB"], ["CB"], ["LW"], ["RW"], ["CM"], ["RW"], ["CM"], ["GK"], ["GK"], ["ST"], ["CB"], ["RB"], ["LB"]],
+        "ratings": [98, 94, 91, 92, 90, 89, 87, 88, 87, 87, 86, 86, 85, 85, 84, 84, 83, 83, 82, 82]
+    },
+    "Italy (Runner-up)": {
+        "names": ["Giacinto Facchetti", "Sandro Mazzola", "Luigi Riva", "Gianni Rivera", "Enrico Albertosi", "Roberto Boninsegna", "Tarcisio Burgnich", "Pierluigi Cera", "Mario Bertini", "Angelo Domenghini", "Giancarlo De Sisti", "Lido Vieri", "Franco Tancredi", "Fabio Capello", "Pietro Anastasi", "Giuseppe Furino", "Francesco Rizzo", "Giorgio Puia", "Carmelo Baglio", "Sergio Gori"],
+        "positions": [["LB"], ["CAM"], ["ST"], ["CAM"], ["GK"], ["ST"], ["RB"], ["CB"], ["CDM"], ["RW"], ["CM"], ["GK"], ["GK"], ["CM"], ["ST"], ["CDM"], ["CAM"], ["CB"], ["CB"], ["ST"]],
+        "ratings": [93, 92, 94, 93, 89, 90, 89, 88, 88, 87, 87, 86, 86, 85, 85, 84, 84, 83, 83, 82]
+    }
+  },
+  "1980s": {
+    "Italy": {
+        "names": ["Paolo Rossi", "Dino Zoff", "Gaetano Scirea", "Claudio Gentile", "Antonio Cabrini", "Marco Tardelli", "Bruno Conti", "Giancarlo Antognoni", "Fulvio Collovati", "Giuseppe Bergomi", "Alessandro Altobelli", "Franco Causio", "Gabriele Oriali", "Francesco Graziani", "Pietro Vierchowod", "Ivano Bordon", "Giovanni Galli", "Daniele Massaro", "Pietro Fanna", "Giampiero Marini"],
+        "positions": [["ST"], ["GK"], ["CB", "SW"], ["CB"], ["LB"], ["CM"], ["RW"], ["CAM"], ["CB"], ["CB"], ["ST"], ["RM"], ["CDM"], ["ST"], ["CB"], ["GK"], ["GK"], ["ST"], ["RW"], ["CM"]],
+        "ratings": [94, 95, 95, 92, 90, 91, 92, 90, 89, 89, 88, 88, 87, 87, 86, 86, 85, 85, 84, 84]
+    },
+    "Argentina": {
+        "names": ["Diego Maradona", "Jorge Valdano", "Jorge Burruchaga", "Oscar Ruggeri", "Nery Pumpido", "Sergio Batista", "Ricardo Giusti", "José Luis Cuciuffo", "Julio Olarticoechea", "Héctor Enrique", "José Luis Brown", "Oscar Garré", "Luis Islas", "Héctor Zelada", "Marcelo Trobbiani", "Pedro Pasculli", "Carlos Tapia", "Claudio Borghi", "Oscar Ortiz", "Daniel Passarella"],
+        "positions": [["CAM", "ST"], ["ST"], ["CAM", "RW"], ["CB"], ["GK"], ["CDM"], ["CM"], ["RB"], ["LB"], ["CM"], ["CB"], ["LB", "RB"], ["GK"], ["GK"], ["CM"], ["ST"], ["CAM"], ["CAM"], ["LW"], ["CB"]],
+        "ratings": [99, 91, 90, 89, 87, 86, 86, 85, 85, 85, 85, 84, 84, 83, 83, 82, 82, 81, 81, 95]
+    },
+    "Germany (Runner-up)": {
+        "names": ["Karl-Heinz Rummenigge", "Harald Schumacher", "Paul Breitner", "Hans-Peter Briegel", "Pierre Littbarski", "Felix Magath", "Wolfgang Dremmler", "Manfred Kaltz", "Uli Stielike", "Norbert Meinert", "Klaus Allofs", "Bernd Förster", "Karlheinz Förster", "Rudi Völler", "Lothar Matthäus", "Eike Immel", "Dieter Burdenski", "Herbert Waas", "Wolfgang Rolff", "Matthias Herget"],
+        "positions": [["ST", "RW"], ["GK"], ["CM"], ["CB", "LB"], ["RW"], ["CAM"], ["CDM"], ["RB"], ["CDM"], ["CB"], ["ST"], ["CB"], ["CB"], ["ST"], ["CM"], ["GK"], ["GK"], ["ST"], ["CDM"], ["CB"]],
+        "ratings": [94, 92, 91, 89, 88, 88, 87, 87, 86, 86, 85, 85, 84, 84, 90, 82, 82, 81, 81, 80]
+    }
+  },
+  "1990s": {
+    "Brazil": {
+      "names": ["Ronaldo", "Romário", "Bebeto", "Cafu", "Roberto Carlos", "Dunga", "Taffarel", "Rivaldo", "Leonardo", "Djalminha", "Aldair", "Mauro Silva", "Juninho Paulista", "Denilson", "Edmundo", "Branco", "Márcio Santos", "Zinho", "Paulo Sérgio", "Müller", "Raí", "Ricardo Rocha", "Gilmar Rinaldi", "Palhinha"],
+      "positions": [["ST"], ["ST"], ["ST"], ["RB"], ["LB"], ["CDM"], ["GK"], ["CAM", "LW"], ["LB", "LM"], ["CAM"], ["CB"], ["CDM"], ["CM"], ["LW"], ["ST"], ["LB"], ["CB"], ["CM"], ["ST"], ["ST"], ["CAM"], ["CB"], ["GK"], ["ST"]],
+      "ratings": [98, 97, 93, 92, 93, 89, 88, 95, 87, 86, 88, 87, 88, 86, 85, 84, 85, 84, 83, 84, 87, 83, 80, 82]
+    },
+    "France": {
+      "names": ["Zinedine Zidane", "Thierry Henry", "Fabien Barthez", "Marcel Desailly", "Lilian Thuram", "Didier Deschamps", "Laurent Blanc", "Bixente Lizarazu", "Youri Djorkaeff", "Emmanuel Petit", "Christian Karembeu", "David Trezeguet", "Robert Pires", "Sylvain Wiltord", "Frank Leboeuf", "Grégory Coupet", "Nicolas Anelka", "Christophe Dugarry", "Patrick Vieira", "Alain Boghossian", "Bernard Lama", "Vincent Candela", "Lionel Charbonnier", "Martin Djetou"],
+      "positions": [["CAM"], ["ST"], ["GK"], ["CB"], ["CB", "RB"], ["CDM", "CM"], ["CB"], ["LB"], ["CAM"], ["CDM", "CM"], ["CDM", "RB"], ["ST"], ["RM", "LM"], ["RW", "LW"], ["CB"], ["GK"], ["ST"], ["ST"], ["CM", "CDM"], ["CM"], ["GK"], ["LB"], ["GK"], ["CB"]],
+      "ratings": [96, 92, 90, 93, 92, 90, 91, 89, 89, 88, 87, 88, 88, 87, 86, 85, 86, 85, 88, 84, 84, 85, 80, 82]
+    },
+    "Italy (Runner-up)": {
+        "names": ["Roberto Baggio", "Franco Baresi", "Paolo Maldini", "Gianluca Pagliuca", "Dino Baggio", "Giuseppe Bergomi", "Alessandro Costacurta", "Antonio Conte", "Pierluigi Casiraghi", "Demetrio Albertini", "Gianfranco Zola", "Angelo Peruzzi", "Luca Marchegiani", "Luigi Apolloni", "Lorenzo Minotti", "Mauro Tassotti", "Roberto Donadoni", "Alberico Evani", "Daniele Massaro", "Pierluigi Casiraghi"],
+        "positions": [["ST", "CAM"], ["CB"], ["CB", "LB"], ["GK"], ["CM"], ["CB"], ["CB"], ["CM"], ["ST"], ["CDM"], ["CAM"], ["GK"], ["GK"], ["CB"], ["CB"], ["RB"], ["RM"], ["LM"], ["ST"], ["ST"]],
+        "ratings": [95, 94, 93, 90, 88, 87, 89, 86, 85, 85, 84, 84, 83, 83, 82, 82, 81, 81, 80, 80]
+    },
+    "Argentina (Runner-up)": {
+        "names": ["Diego Maradona", "Claudio Caniggia", "Sergio Goycochea", "Oscar Ruggeri", "Jorge Burruchaga", "Gabriel Batistuta", "Diego Simeone", "Ariel Ortega", "Roberto Ayala", "Javier Zanetti", "Juan Sebastián Verón", "Hernán Crespo", "José Chamot", "Carlos Roa", "Fernando Redondo", "Marcelo Gallardo", "Gustavo López", "Matías Almeyda", "Mauricio Pochettino", "Paz"],
+        "positions": [["CAM", "ST"], ["ST"], ["GK"], ["CB"], ["CAM"], ["ST"], ["CDM"], ["CAM"], ["CB"], ["RB"], ["CM"], ["ST"], ["LB"], ["GK"], ["CDM"], ["CAM"], ["LW"], ["CDM"], ["CB"], ["CB"]],
+        "ratings": [94, 89, 91, 88, 87, 95, 91, 89, 91, 91, 90, 91, 86, 85, 91, 87, 87, 86, 86, 84]
+    },
+    "Cameroon": {
+        "names": ["Roger Milla", "François Omam-Biyik", "Thomas N'Kono", "Jacques Songo'o", "Marc-Vivien Foé", "Rigobert Song", "Patrick M'Boma", "Samuel Eto'o", "Lauren", "Geremi", "Pierre Womé", "Salomon Olembé", "Raymond Kalla", "Lucien Mettomo", "Bill Tchato", "Augustine Simo", "Joseph-Désiré Job", "Pius N'Diefi", "Idriss Carlos Kameni", "Jean Makoun", "Daniel Ngom Kome", "Eric Djemba-Djemba", "Henri Bedimo", "Modeste M'bami"],
+        "positions": [["ST"], ["ST"], ["GK"], ["GK"], ["CDM", "CM"], ["CB"], ["ST"], ["ST"], ["RB", "RM"], ["RB", "RM"], ["LB"], ["LM", "LW"], ["CB"], ["CB"], ["LB"], ["CM"], ["ST"], ["ST"], ["GK"], ["CM"], ["RM", "LM"], ["CDM"], ["LB"], ["CDM"]],
+        "ratings": [90, 86, 88, 85, 85, 86, 86, 88, 86, 86, 83, 82, 82, 81, 81, 80, 80, 79, 81, 82, 79, 80, 78, 79]
+    },
+    "Croatia": {
+        "names": ["Davor Šuker", "Zvonimir Boban", "Robert Prosinečki", "Slaven Bilić", "Igor Štimac", "Dražen Ladić", "Mario Stanić", "Robert Jarni", "Aljoša Asanović", "Goran Vlaović", "Zvonimir Soldo", "Igor Tudor", "Goran Jurić", "Ardian Kozniku", "Zoran Mamić", "Petar Krpan", "Marijan Mrmić", "Vladimir Vasilj", "Dubravko Pavličić", "Anthony Šerić"],
+        "positions": [["ST"], ["CAM"], ["CM", "CAM"], ["CB"], ["CB"], ["GK"], ["RM", "RB"], ["LB", "LWB"], ["CAM", "CM"], ["ST", "RW"], ["CDM"], ["CB", "CDM"], ["CB"], ["ST"], ["CM"], ["ST"], ["GK"], ["GK"], ["CB"], ["LB"]],
+        "ratings": [92, 91, 89, 87, 86, 85, 85, 86, 87, 84, 85, 84, 83, 83, 82, 82, 81, 81, 80, 80]
+    }
+  },
+  "2000s": {
+    "Germany (Runner-up)": {
+        "names": ["Oliver Kahn", "Michael Ballack", "Miroslav Klose", "Bernd Schneider", "Dietmar Hamann", "Christoph Metzelder", "Torsten Frings", "Jens Lehmann", "Hans-Jörg Butt", "Arne Friedrich", "Jens Nowotny", "Thomas Linke", "Marko Rehmer", "Carsten Ramelow", "Jens Jeremies", "Marco Bode", "Lars Ricken", "Oliver Neuville", "Gerald Asamoah", "Carsten Jancker"],
+        "positions": [["GK"], ["CM", "CAM"], ["ST"], ["RM", "LM"], ["CDM"], ["CB"], ["CDM"], ["GK"], ["GK"], ["CB"], ["CB"], ["CB"], ["RB"], ["CDM"], ["CDM"], ["LM"], ["CAM"], ["ST"], ["RW"], ["ST"]],
+        "ratings": [96, 92, 90, 88, 87, 86, 87, 88, 86, 85, 85, 84, 84, 83, 83, 82, 82, 81, 81, 80]
+    },
+    "France (Runner-up)": {
+        "names": ["Zinedine Zidane", "Thierry Henry", "Fabien Barthez", "Patrick Vieira", "Lilian Thuram", "William Gallas", "Willy Sagnol", "Franck Ribéry", "Claude Makélélé", "Willy Sagnol", "Eric Abidal", "Grégory Coupet", "Mickaël Landreau", "Louis Saha", "David Trezeguet", "Sylvain Wiltord", "Alou Diarra", "Florent Malouda", "Pascal Chimbonda", "Mikaël Silvestre"],
+        "positions": [["CAM"], ["ST", "LW"], ["GK"], ["CM", "CDM"], ["CB", "RB"], ["CB"], ["RB"], ["LM", "LW"], ["CDM"], ["RB"], ["LB"], ["GK"], ["GK"], ["ST"], ["ST"], ["RW", "ST"], ["CDM"], ["LM"], ["RB"], ["CB", "LB"]],
+        "ratings": [95, 93, 91, 91, 91, 89, 88, 89, 90, 88, 87, 87, 86, 86, 85, 85, 84, 84, 83, 83]
+    },
+    "Senegal": {
+        "names": ["El Hadji Diouf", "Khalilou Fadiga", "Papa Bouba Diop", "Salif Diao", "Tony Sylva", "Aliou Cissé", "Henri Camara", "Ferdinand Coly", "Omar Daf", "Moussa N'Diaye", "Lamine Diatta", "Omar Diallo", "Sylvain N'Diaye", "Khalilou Fadiga", "Mamadou Niang", "Souleymane Camara", "Alioune Touré", "Pape Malick Diop", "Habib Beye", "Amady Faye"],
+        "positions": [["ST", "LW"], ["CAM", "LM"], ["CM", "CDM"], ["CDM"], ["GK"], ["CDM", "CB"], ["ST", "RW"], ["RB"], ["LB"], ["ST"], ["CB"], ["GK"], ["CM"], ["CAM"], ["ST"], ["ST"], ["RW"], ["CB"], ["RB"], ["CM"]],
+        "ratings": [87, 85, 86, 84, 85, 83, 85, 82, 81, 80, 82, 81, 81, 80, 80, 79, 79, 78, 78, 77]
+    },
+    "Turkey": {
+        "names": ["Rüştü Reçber", "Hakan Şükür", "Emre Belözoğlu", "Yıldıray Baştürk", "Alpay Özalan", "Ümit Davala", "Hasan Şaş", "İlhan Mansız", "Tugay Kerimoğlu", "Bülent Korkmaz", "Ergün Penbe", "Ömer Çatkıç", "Emre Aşık", "Fatih Akyel", "Abdullah Ercan", "Tayfur Havutçu", "Nihat Kahveci", "Arif Erdem", "Suat Kaya", "Zafer Özgültekin"],
+        "positions": [["GK"], ["ST"], ["CM"], ["CAM"], ["CB"], ["RB", "RM"], ["LW"], ["ST"], ["CDM"], ["CB"], ["LB"], ["GK"], ["CB"], ["RB"], ["LB"], ["CDM"], ["ST", "RW"], ["ST"], ["CM"], ["GK"]],
+        "ratings": [91, 90, 89, 88, 87, 86, 88, 86, 87, 86, 85, 85, 84, 84, 83, 83, 82, 82, 81, 81]
+    },
+    "Portugal": {
+        "names": ["Luís Figo", "Cristiano Ronaldo", "Deco", "Ricardo Carvalho", "Maniche", "Paulo Ferreira", "Nuno Valente", "Ricardo", "Miguel", "Fernando Meira", "Tiago", "Simão Sabrosa", "Pedro Pauleta", "Costinha", "Ricardo Costa", "Jorge Andrade", "Nuno Gomes", "Helder Postiga", "Hugo Viana", "Quim"],
+        "positions": [["RW"], ["LW"], ["CAM"], ["CB"], ["CM"], ["RB"], ["LB"], ["GK"], ["RB"], ["CB"], ["CM"], ["LW"], ["ST"], ["CDM"], ["CB"], ["CB"], ["ST"], ["ST"], ["CM"], ["GK"]],
+        "ratings": [95, 92, 91, 89, 88, 87, 86, 87, 85, 86, 86, 88, 89, 87, 84, 85, 86, 85, 84, 83]
+    },
+    "South Korea": {
+        "names": ["Hong Myung-bo", "Park Ji-sung", "Lee Young-pyo", "Ahn Jung-hwan", "Cha Du-ri", "Lee Woon-jae", "Kim Nam-il", "Seol Ki-hyeon", "Song Chong-gug", "Choi Jin-cheul", "Kim Tae-young", "Choi Yong-soo", "Lee Chun-soo", "Yoon Jong-hwan", "Choi Sung-yong", "Kim Byung-ji", "Choi Eun-sung", "Lee Min-sung", "Hwang Sun-hong", "Lee Eul-yong"],
+        "positions": [["CB"], ["LM", "CAM"], ["LB"], ["ST"], ["RB", "RW"], ["GK"], ["CDM"], ["LW", "ST"], ["RB", "CDM"], ["CB"], ["CB"], ["ST"], ["RW", "LW"], ["CAM"], ["RB"], ["GK"], ["GK"], ["CB"], ["ST"], ["CM"]],
+        "ratings": [88, 87, 85, 86, 82, 86, 84, 83, 84, 82, 82, 81, 81, 80, 80, 79, 79, 78, 78, 77]
+    }
+  },
+  "2010s": {
+    "Netherlands (Runner-up)": {
+        "names": ["Wesley Sneijder", "Arjen Robben", "Robin van Persie", "Dirk Kuyt", "Nigel de Jong", "Mark van Bommel", "John Heitinga", "Joris Mathijsen", "Maarten Stekelenburg", "Gregory van der Wiel", "Giovanni van Bronckhorst", "Rafael van der Vaart", "Klaas-Jan Huntelaar", "Michel Vorm", "Sander Boschker", "Eljero Elia", "Edson Braafheid", "Khalid Boulahrouz", "Ryan Babel", "Ibrahim Afellay"],
+        "positions": [["CAM"], ["RW", "LW"], ["ST"], ["RW", "ST"], ["CDM"], ["CDM"], ["CB"], ["CB"], ["GK"], ["RB"], ["LB"], ["CAM"], ["ST"], ["GK"], ["GK"], ["LW"], ["LB"], ["CB", "RB"], ["LW", "ST"], ["CAM", "LM"]],
+        "ratings": [92, 93, 91, 87, 86, 85, 84, 83, 84, 83, 82, 86, 87, 80, 80, 81, 78, 80, 82, 82]
+    },
+    "Argentina (Runner-up)": {
+        "names": ["Lionel Messi", "Sergio Agüero", "Angel Di Maria", "Javier Mascherano", "Gonzalo Higuaín", "Pablo Zabaleta", "Ezequiel Garay", "Marcos Rojo", "Martin Demichelis", "Lucas Biglia", "Sergio Romero", "Mariano Andújar", "Agustín Orión", "Federico Fernández", "Ricardo Álvarez", "Augusto Fernández", "Hugo Campagnaro", "José María Basanta", "Ezequiel Lavezzi", "Rodrigo Palacio"],
+        "positions": [["RW", "CAM"], ["ST"], ["RW", "LW"], ["CDM"], ["ST"], ["RB"], ["CB", "LB"], ["LB", "CB"], ["CB"], ["CDM", "CM"], ["GK"], ["GK"], ["GK"], ["CB"], ["CAM"], ["CM", "RM"], ["CB"], ["LB"], ["LW", "RW"], ["ST"]],
+        "ratings": [99, 91, 91, 88, 89, 87, 85, 84, 83, 83, 86, 82, 82, 82, 80, 81, 80, 79, 86, 85]
+    },
+    "Uruguay": {
+        "names": ["Luis Suárez", "Diego Forlán", "Edinson Cavani", "Diego Godín", "Fernando Muslera", "Diego Lugano", "Maxi Pereira", "Martín Cáceres", "Álvaro Pereira", "Egidio Arévalo Ríos", "Diego Pérez", "Jorge Fucile", "Sebastián Eguren", "Nicolás Lodeiro", "Sebastián Abreu", "Martín Silva", "Juan Castillo", "Mauricio Victorino", "Andrés Scotti", "Walter Gargano"],
+        "positions": [["ST"], ["ST", "CAM"], ["ST"], ["CB"], ["GK"], ["CB"], ["RB"], ["LB", "CB"], ["LB", "LM"], ["CDM"], ["CDM"], ["RB"], ["CM"], ["CAM"], ["ST"], ["GK"], ["GK"], ["CB"], ["CB"], ["CDM"]],
+        "ratings": [90, 91, 89, 88, 86, 85, 83, 82, 81, 81, 80, 80, 79, 79, 78, 78, 77, 77, 76, 76]
+    },
+    "Croatia (Runner-up)": {
+        "names": ["Luka Modrić", "Ivan Perišić", "Mateo Kovačić", "Marcelo Brozović", "Joško Gvardiol", "Dominik Livaković", "Andrej Kramarić", "Domagoj Vida", "Dejan Lovren", "Ante Rebić", "Šime Vrsaljko", "Danijel Subašić", "Lovre Kalinić", "Tin Jedvaj", "Duje Ćaleta-Car", "Milan Badelj", "Filip Bradarić", "Marko Pjaca", "Andrej Kramarić", "Nikola Kalinić"],
+        "positions": [["CM", "CAM"], ["LM", "LW"], ["CM"], ["CDM"], ["CB", "LB"], ["GK"], ["ST", "CAM"], ["CB"], ["CB"], ["LW", "ST"], ["RB"], ["GK"], ["GK"], ["CB", "RB"], ["CB"], ["CDM", "CM"], ["CDM"], ["LW", "RW"], ["ST", "CAM"], ["ST"]],
+        "ratings": [91, 87, 86, 87, 86, 84, 82, 83, 83, 81, 82, 83, 80, 79, 79, 80, 78, 78, 82, 81]
+    },
+    "Belgium": {
+        "names": ["Eden Hazard", "Kevin De Bruyne", "Romelu Lukaku", "Thibaut Courtois", "Jan Vertonghen", "Toby Alderweireld", "Axel Witsel", "Dries Mertens", "Vincent Kompany", "Marouane Fellaini", "Thomas Meunier", "Simon Mignolet", "Koen Casteels", "Dedryck Boyata", "Leander Dendoncker", "Mousa Dembélé", "Nacer Chadli", "Thorgan Hazard", "Yannick Carrasco", "Adnan Januzaj"],
+        "positions": [["LW", "CAM"], ["CAM", "CM"], ["ST"], ["GK"], ["CB", "LB"], ["CB"], ["CDM"], ["ST", "RW"], ["CB"], ["CM"], ["RB", "RWB"], ["GK"], ["GK"], ["CB"], ["CB", "CDM"], ["CM"], ["LM", "RM"], ["LM", "RM"], ["LW", "RW"], ["RW", "LW"]],
+        "ratings": [94, 95, 90, 92, 88, 88, 86, 87, 89, 84, 85, 83, 82, 81, 81, 85, 83, 84, 84, 80]
+    },
+    "Costa Rica": {
+        "names": ["Keylor Navas", "Joel Campbell", "Bryan Ruiz", "Giancarlo González", "Celso Borges", "Christian Bolaños", "Cristian Gamboa", "Junior Díaz", "Michael Umaña", "Oscar Duarte", "Yeltsin Tejeda", "Patrick Pemberton", "Daniel Cambronero", "Johnny Acosta", "Heiner Mora", "Waylon Francis", "José Cubero", "Esteban Granados", "Randall Brenes", "Marco Ureña"],
+        "positions": [["GK"], ["ST", "RW"], ["CAM", "LW"], ["CB"], ["CM"], ["RW", "LW"], ["RB"], ["LB"], ["CB"], ["CB"], ["CDM"], ["GK"], ["GK"], ["CB"], ["RB"], ["LB"], ["CDM"], ["CM"], ["ST"], ["ST"]],
+        "ratings": [90, 84, 85, 82, 83, 82, 81, 80, 79, 81, 80, 78, 77, 77, 76, 76, 75, 75, 74, 74]
+    },
+    "Colombia": {
+        "names": ["James Rodríguez", "Radamel Falcao", "Juan Cuadrado", "David Ospina", "Carlos Sánchez", "Pablo Armero", "Cristian Zapata", "Mario Yepes", "Camilo Zúñiga", "Teófilo Gutiérrez", "Jackson Martínez", "Faryd Mondragón", "Camilo Vargas", "Santiago Arias", "Éder Balanta", "Carlos Valdés", "Freddy Guarín", "Abel Aguilar", "Alexander Mejía", "Víctor Ibarbo"],
+        "positions": [["CAM", "RW"], ["ST"], ["RM", "RW"], ["GK"], ["CDM"], ["LB"], ["CB"], ["CB"], ["RB"], ["ST"], ["ST"], ["GK"], ["GK"], ["RB"], ["CB"], ["CB"], ["CM"], ["CM"], ["CDM"], ["LW", "RW"]],
+        "ratings": [92, 91, 88, 86, 85, 84, 84, 85, 83, 82, 83, 81, 81, 82, 80, 80, 84, 83, 81, 80]
+    },
+    "Chile": {
+        "names": ["Alexis Sánchez", "Arturo Vidal", "Claudio Bravo", "Gary Medel", "Charles Aránguiz", "Eduardo Vargas", "Mauricio Isla", "Jean Beausejour", "Gonzalo Jara", "Marcelo Díaz", "Francisco Silva", "Johnny Herrera", "Cristopher Toselli", "Eugenio Mena", "Miiko Albornoz", "José Rojas", "Felipe Gutiérrez", "Mauricio Pinilla", "Fabián Orellana", "Jorge Valdivia"],
+        "positions": [["LW", "ST"], ["CM"], ["GK"], ["CB", "CDM"], ["CM"], ["ST"], ["RB"], ["LB"], ["CB"], ["CDM"], ["CM"], ["GK"], ["GK"], ["LB"], ["LB"], ["CB"], ["CM"], ["ST"], ["RW", "LW"], ["CAM"]],
+        "ratings": [91, 92, 88, 87, 86, 85, 84, 83, 82, 83, 82, 81, 80, 81, 79, 79, 80, 81, 80, 85]
+    }
+  },
+  "2020s": {
+    "France (Runner-up)": {
+      "names": ["Kylian Mbappé", "Antoine Griezmann", "Aurélien Tchouaméni", "Theo Hernandez", "Dayot Upamecano", "Ibrahima Konaté", "Jules Koundé", "Adrien Rabiot", "Ousmane Dembélé", "Olivier Giroud", "Mike Maignan", "Hugo Lloris", "Steve Mandanda", "Benjamin Pavard", "William Saliba", "Eduardo Camavinga", "Kingsley Coman", "Marcus Thuram", "Randal Kolo Muani", "Youssouf Fofana"],
+      "positions": [["ST", "LW"], ["CAM", "ST"], ["CDM", "CM"], ["LB"], ["CB"], ["CB"], ["RB", "CB"], ["CM"], ["RW", "LW"], ["ST"], ["GK"], ["GK"], ["GK"], ["RB", "CB"], ["CB"], ["CM", "LB"], ["LW", "RW"], ["ST"], ["ST"], ["CM"]],
+      "ratings": [93, 90, 88, 87, 85, 85, 86, 84, 86, 83, 89, 88, 84, 83, 86, 86, 86, 82, 82, 81]
+    }
+  }
+}

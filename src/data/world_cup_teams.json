@@ -1,0 +1,18 @@
+[
+  {"name": "Brazil", "category": "Winner", "rating": 95},
+  {"name": "Germany", "category": "Winner", "rating": 94},
+  {"name": "Italy", "category": "Winner", "rating": 93},
+  {"name": "Argentina", "category": "Winner", "rating": 92},
+  {"name": "France", "category": "Winner", "rating": 94},
+  {"name": "Netherlands", "category": "Runner-Up", "rating": 89},
+  {"name": "Croatia", "category": "Runner-Up", "rating": 87},
+  {"name": "Morocco", "category": "Underrated", "rating": 85},
+  {"name": "Cameroon", "category": "Underrated", "rating": 84},
+  {"name": "Nigeria", "category": "Underrated", "rating": 84},
+  {"name": "Senegal", "category": "Underrated", "rating": 85},
+  {"name": "Belgium", "category": "3rd-Place", "rating": 88},
+  {"name": "Poland", "category": "3rd-Place", "rating": 86},
+  {"name": "Uruguay", "category": "Winner", "rating": 88},
+  {"name": "Portugal", "category": "3rd-Place", "rating": 87},
+  {"name": "Ghana", "category": "Underrated", "rating": 83}
+]

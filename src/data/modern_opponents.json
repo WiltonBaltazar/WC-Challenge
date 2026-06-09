@@ -1,0 +1,19 @@
+[
+  {"name": "Canada", "rating": 78}, {"name": "Mexico", "rating": 80}, {"name": "United States", "rating": 81},
+  {"name": "Australia", "rating": 76}, {"name": "Iraq", "rating": 73}, {"name": "IR Iran", "rating": 77},
+  {"name": "Japan", "rating": 82}, {"name": "Jordan", "rating": 72}, {"name": "Korea Republic", "rating": 80},
+  {"name": "Qatar", "rating": 74}, {"name": "Saudi Arabia", "rating": 75}, {"name": "Uzbekistan", "rating": 73},
+  {"name": "Algeria", "rating": 78}, {"name": "Cabo Verde", "rating": 72}, {"name": "Congo DR", "rating": 74},
+  {"name": "Côte d'Ivoire", "rating": 79}, {"name": "Egypt", "rating": 79}, {"name": "Ghana", "rating": 76},
+  {"name": "Morocco", "rating": 83}, {"name": "Senegal", "rating": 81}, {"name": "South Africa", "rating": 74},
+  {"name": "Tunisia", "rating": 75}, {"name": "Curaçao", "rating": 70}, {"name": "Haiti", "rating": 71},
+  {"name": "Panama", "rating": 73}, {"name": "Argentina", "rating": 92}, {"name": "Brazil", "rating": 90},
+  {"name": "Colombia", "rating": 83}, {"name": "Ecuador", "rating": 80}, {"name": "Paraguay", "rating": 78},
+  {"name": "Uruguay", "rating": 84}, {"name": "New Zealand", "rating": 71}, {"name": "Austria", "rating": 81},
+  {"name": "Belgium", "rating": 83}, {"name": "Bosnia and Herzegovina", "rating": 75}, {"name": "Croatia", "rating": 82},
+  {"name": "Czechia", "rating": 77}, {"name": "England", "rating": 88}, {"name": "France", "rating": 90},
+  {"name": "Germany", "rating": 87}, {"name": "Netherlands", "rating": 84}, {"name": "Norway", "rating": 80},
+  {"name": "Portugal", "rating": 86}, {"name": "Scotland", "rating": 77}, {"name": "Spain", "rating": 86},
+  {"name": "Sweden", "rating": 78}, {"name": "Switzerland", "rating": 80}, {"name": "Türkiye", "rating": 79},
+  {"name": "Italy", "rating": 85}
+]
